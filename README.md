@@ -4,5 +4,4 @@
 
 #### Equipe:
 
- Nome: Carl Betsa Costa   |    Matrícula: 59
- Nome: Lucas Cinquetti Moreira   |    Matrícula: 330
+ Nome: Carl Betsa Costa   |   Lucas Cinquetti Moreira
